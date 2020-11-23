@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="1821221010_AhmetCemalettinKumru_Project.jnlp">
+  <information>
+    <title>1821221010_AhmetCemalettinKumru_Project</title>
+    <vendor>ahmet</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="1821221010_AhmetCemalettinKumru_Project.jar" size="6065" download="eager" />
+    <jar href="lib\commons-math3-3.6.1.jar" size="2213560" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="1821221010_AhmetCemalettinKumru_Project" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxapplication1.JavaFXApplication1"  name="1821221010_AhmetCemalettinKumru_Project" />
+  <update check="always"/>
+</jnlp>
